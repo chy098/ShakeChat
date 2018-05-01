@@ -1,6 +1,5 @@
-# Project Title
-
-CSE110 Shake Chat
+# Shake Chat
+For CSE110
 
 ## Environment
 

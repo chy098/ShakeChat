@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShakeChat</string>
+    <string name="title_match">Match</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_friendlist">Friend List</string>
+    <string name="title_profile">Profile</string>
+</resources>
